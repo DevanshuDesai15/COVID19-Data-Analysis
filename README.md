@@ -1,4 +1,10 @@
 # COVID19-Data-Analysis
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46750877/174343169-d558f83d-dcc1-4279-8176-65d4fd7ba976.png" />
+
+</p>
+
   I have done a data analytics project on the COVID-19 situation which covers data of all the confirmed cases, recovered cases, death cases. The data is visualized with the help of plotly(which helps to create very beautiful graphs/plots) and folium(for the map visulization purpose) dependencies. I have also analyzed the comparison between COVID-19 diseases with other epidemics.
 
 Below are the graphs which are used in this project:
